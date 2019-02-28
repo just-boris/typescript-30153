@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "jsx": "react",
+    "jsxFactory": "MyLib.createElement",
+    "outDir": "./lib",
+    "strict": true
+  },
+  "include": [
+    "src/**/*.ts*"
+  ]
+}
